@@ -1,19 +1,3 @@
-// -*- C++ -*-
-// $Id: Array.h 819 2011-01-17 15:24:45Z hillj $
-
-//==============================================================================
-/**
- * @file       Array.h
- *
- * $Id: Array.h 819 2011-01-17 15:24:45Z hillj $
- *
- * Honor Pledge:
- *
- * I pledge that I have neither given nor received any help
- * on this assignment.
- */
-//==============================================================================
-
 #ifndef _ARRAY_H_
 #define _ARRAY_H_
 
