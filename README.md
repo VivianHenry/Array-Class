@@ -1,6 +1,6 @@
-<h1>Assignment 1</h1>
+<h1>Array Class</h1>
 
-The goal of this programming assignment is to provide a refresher for programming abstract data types (ADTs) in C++ by designing and implementing a standard array class for charecters (char). The design and function declarations are provided in the header file (Array.h). The function definitions are provided in Array.cpp. The code used to test the implementation is provided in driver.cpp.
+The goal of this programming assignment is to provide a refresher for programming abstract data types (ADTs) in C++ by designing and implementing a standard array class for characters (char). The design and function declarations are provided in the header file (Array.h). The function definitions are provided in Array.cpp. The code used to test the implementation is provided in driver.cpp.
 
 Included files:
 <ul>
